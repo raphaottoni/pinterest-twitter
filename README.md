@@ -1,2 +1,2 @@
-pinterest-twitter-
+pinterest-twitter
 ==================
